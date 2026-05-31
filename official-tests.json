@@ -15474,9 +15474,12 @@
       "test_id": "2025-11",
       "test_date": "2025-11-26",
       "question_number": 14,
-      "question": "Hvilken af følgende virksomheder er kendt for at producere vindmøller? A : Novo Nordisk",
+      "question": "Hvilken af følgende virksomheder er kendt for at producere vindmøller? ,
       "options": [
         {
+          "key": "A",
+          "text": "Novo Nordisk"
+        },
           "key": "B",
           "text": "Mærsk"
         },
